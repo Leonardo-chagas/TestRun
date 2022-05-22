@@ -1,0 +1,104 @@
+{
+    "name": "MenuController",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "f11295a9-4544-4332-b546-4c25736733cf",
+            "actions": [
+                {
+                    "name": "Back",
+                    "type": "PassThrough",
+                    "id": "80ebcbf9-fdf0-405e-a4d0-00437fe0e909",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "Right",
+                    "type": "PassThrough",
+                    "id": "7227bc5f-cf44-45e0-b408-4262184e270b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                },
+                {
+                    "name": "Left",
+                    "type": "PassThrough",
+                    "id": "d8a1b07a-c753-4a98-9160-bf1a068c81dd",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Press"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ea806296-c0dc-41b9-a210-f95debd6dd23",
+                    "path": "<Keyboard>/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Back",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c8e0519d-47a0-4d29-9252-a6e654f9e8a3",
+                    "path": "<Gamepad>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Back",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fd7ca597-ee64-4b80-a07c-be8a99e1267c",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8a4c8440-2a64-405d-a514-222046ac1fe7",
+                    "path": "<Gamepad>/rightShoulder",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "946ffacc-3e0d-4945-9477-d359fe0ac3a5",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "585e2b12-51ec-4cdf-ab3c-bdbe620b04e2",
+                    "path": "<Gamepad>/leftShoulder",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
