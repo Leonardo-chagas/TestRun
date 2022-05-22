@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: xbox west button
+  m_Controller: {fileID: 9100000, guid: 40dff3070373e014fadf756a3447b8bd, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 46b8a9e91fd256940b5b560fa36134be, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5013b462007fedf44bbc4a8e8717060b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 35b31062d6db07d48a7230f0e865a2e3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 46a95c6b899de46478dd4f270bb38112, type: 2}

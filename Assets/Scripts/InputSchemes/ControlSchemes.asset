@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b54e1370e97aa7948b1343822c5879bf, type: 3}
+  m_Name: ControlSchemes
+  m_EditorClassIdentifier: 
+  PlaystationButtons:
+  - {fileID: 7177976248879820119, guid: 2922ccd03a306e24ea0da71ac162e207, type: 3}
+  - {fileID: 8097535121534908739, guid: d2e6ca67d6b8e454fa0b8ce2c7cc8624, type: 3}
+  - {fileID: 5168888727791746799, guid: f4478504b5896194784a4b065ed5569b, type: 3}
+  - {fileID: 4853872693435259288, guid: f81401edbe537de448e1ab5c1c574972, type: 3}
+  - {fileID: 234691330927670803, guid: 91257100eb63ac74483c16b469575ced, type: 3}
+  - {fileID: 5890256455261006150, guid: 7b4eeb23b1d26ed48a59e172b79985fe, type: 3}
+  - {fileID: 5785030828587512919, guid: 3e63332d4be265d4ab90df8bb4b95a4c, type: 3}
+  - {fileID: 6547900212358191814, guid: 8eb10e63bd519344db520bd3073b0423, type: 3}
+  XboxButtons:
+  - {fileID: 8710578190813742988, guid: b138c8562f7ee7840b9cf3b3258e288d, type: 3}
+  - {fileID: 4033748624421283032, guid: 4566a6ec910ecf847bb9e9458875ad81, type: 3}
+  - {fileID: 4254407859463500706, guid: 387ed08d9f8e36e4e9ee5ee80ec5a3f1, type: 3}
+  - {fileID: 7692863562934287392, guid: 113cf0022efedfd47b380139de558ef2, type: 3}
+  - {fileID: 9087704280998702189, guid: c84159e93abe3fb409b36e702cfc350e, type: 3}
+  - {fileID: 1249079261683888016, guid: 8d2b089a9880692408577760bbeb3b74, type: 3}
+  - {fileID: 477075081835893456, guid: 38aecd31afb25f24a93c62f7ae21dc77, type: 3}
+  - {fileID: 3215358687614005153, guid: 1c6ba55722dde5a4fa4a4b69a3f80981, type: 3}
+  PCButtons: []
